@@ -1,0 +1,1 @@
+This is a library to initialise the TAS5825M without DSP using I2C.
